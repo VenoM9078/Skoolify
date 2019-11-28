@@ -13,4 +13,4 @@
 * Assign Student Schedules (Admin)
 * View the Assigned Schedules or Ask for one (Students).
 * View & Edit Profile (Student)
-*Edit / Delete & Modify the Registered Students (Admin)
+* Edit / Delete & Modify the Registered Students (Admin)
